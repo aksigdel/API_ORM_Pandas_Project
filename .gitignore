@@ -141,3 +141,5 @@ doctor.csv
 patient.csv
 bill.csv
 room.csv
+
+__pycache__
